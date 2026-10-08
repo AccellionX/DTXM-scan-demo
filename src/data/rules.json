@@ -1,0 +1,310 @@
+[
+  {
+    "id": "rule_aqua",
+    "ingredient_id": "aqua",
+    "concern": "low",
+    "name": "Water base",
+    "why": "The matching rule records water as lower concern."
+  },
+  {
+    "id": "rule_glycerin",
+    "ingredient_id": "glycerin",
+    "concern": "low",
+    "name": "Moisture helper",
+    "why": "The matching rule records this moisture helper as lower concern."
+  },
+  {
+    "id": "rule_aloe_vera",
+    "ingredient_id": "aloe_vera",
+    "concern": "low",
+    "name": "Aloe juice",
+    "why": "The matching rule records aloe juice as lower concern."
+  },
+  {
+    "id": "rule_panthenol",
+    "ingredient_id": "panthenol",
+    "concern": "low",
+    "name": "Softening ingredient",
+    "why": "The matching rule records this softening ingredient as lower concern."
+  },
+  {
+    "id": "rule_tocopherol",
+    "ingredient_id": "tocopherol",
+    "concern": "low",
+    "name": "Vitamin E form",
+    "why": "The matching rule records this vitamin E form as lower concern."
+  },
+  {
+    "id": "rule_citric_acid",
+    "ingredient_id": "citric_acid",
+    "concern": "low",
+    "name": "Formula balancer",
+    "why": "The matching rule records this balancer as lower concern."
+  },
+  {
+    "id": "rule_sodium_chloride",
+    "ingredient_id": "sodium_chloride",
+    "concern": "low",
+    "name": "Salt thickener",
+    "why": "The matching rule records salt as lower concern."
+  },
+  {
+    "id": "rule_cetyl_alcohol",
+    "ingredient_id": "cetyl_alcohol",
+    "concern": "low",
+    "name": "Cream wax",
+    "why": "The matching rule records this cream wax as lower concern."
+  },
+  {
+    "id": "rule_stearyl_alcohol",
+    "ingredient_id": "stearyl_alcohol",
+    "concern": "low",
+    "name": "Cream thickener",
+    "why": "The matching rule records this thickener as lower concern."
+  },
+  {
+    "id": "rule_shea_butter",
+    "ingredient_id": "shea_butter",
+    "concern": "low",
+    "name": "Shea butter",
+    "why": "The matching rule records shea butter as lower concern."
+  },
+  {
+    "id": "rule_coconut_oil",
+    "ingredient_id": "coconut_oil",
+    "concern": "low",
+    "name": "Coconut oil",
+    "why": "The matching rule records coconut oil as lower concern."
+  },
+  {
+    "id": "rule_jojoba_oil",
+    "ingredient_id": "jojoba_oil",
+    "concern": "low",
+    "name": "Jojoba oil",
+    "why": "The matching rule records jojoba oil as lower concern."
+  },
+  {
+    "id": "rule_xanthan_gum",
+    "ingredient_id": "xanthan_gum",
+    "concern": "low",
+    "name": "Gel thickener",
+    "why": "The matching rule records this thickener as lower concern."
+  },
+  {
+    "id": "rule_sodium_citrate",
+    "ingredient_id": "sodium_citrate",
+    "concern": "low",
+    "name": "Balance salt",
+    "why": "The matching rule records this salt as lower concern."
+  },
+  {
+    "id": "rule_squalane",
+    "ingredient_id": "squalane",
+    "concern": "low",
+    "name": "Light oil",
+    "why": "The matching rule records this light oil as lower concern."
+  },
+  {
+    "id": "rule_niacinamide",
+    "ingredient_id": "niacinamide",
+    "concern": "low",
+    "name": "Vitamin B3 form",
+    "why": "The matching rule records this vitamin B3 form as lower concern."
+  },
+  {
+    "id": "rule_sodium_hyaluronate",
+    "ingredient_id": "sodium_hyaluronate",
+    "concern": "low",
+    "name": "Moisture holder",
+    "why": "The matching rule records this moisture holder as lower concern."
+  },
+  {
+    "id": "rule_cetearyl_alcohol",
+    "ingredient_id": "cetearyl_alcohol",
+    "concern": "low",
+    "name": "Wax thickener",
+    "why": "The matching rule records this wax as lower concern."
+  },
+  {
+    "id": "rule_caprylic_capric_triglyceride",
+    "ingredient_id": "caprylic_capric_triglyceride",
+    "concern": "low",
+    "name": "Light plant oil",
+    "why": "The matching rule records this light oil as lower concern."
+  },
+  {
+    "id": "rule_allantoin",
+    "ingredient_id": "allantoin",
+    "concern": "low",
+    "name": "Cream ingredient",
+    "why": "The matching rule records this ingredient as lower concern."
+  },
+  {
+    "id": "rule_chamomile",
+    "ingredient_id": "chamomile",
+    "concern": "low",
+    "name": "Chamomile extract",
+    "why": "The matching rule records chamomile extract as lower concern."
+  },
+  {
+    "id": "rule_colloidal_oatmeal",
+    "ingredient_id": "colloidal_oatmeal",
+    "concern": "low",
+    "name": "Ground oat",
+    "why": "The matching rule records ground oat as lower concern."
+  },
+  {
+    "id": "rule_sodium_laureth_sulfate",
+    "ingredient_id": "sodium_laureth_sulfate",
+    "concern": "some",
+    "name": "Foaming cleanser",
+    "why": "The matching rule records this foaming cleanser as some concern."
+  },
+  {
+    "id": "rule_cocamidopropyl_betaine",
+    "ingredient_id": "cocamidopropyl_betaine",
+    "concern": "some",
+    "name": "Companion cleanser",
+    "why": "The matching rule records this cleanser as some concern."
+  },
+  {
+    "id": "rule_fragrance",
+    "ingredient_id": "fragrance",
+    "concern": "some",
+    "name": "Fragrance listing",
+    "why": "The matching rule records a fragrance listing as some concern, because the blend itself is not fully named."
+  },
+  {
+    "id": "rule_phenoxyethanol",
+    "ingredient_id": "phenoxyethanol",
+    "concern": "some",
+    "name": "Shelf-life ingredient",
+    "why": "The matching rule records this shelf-life ingredient as some concern."
+  },
+  {
+    "id": "rule_methylparaben",
+    "ingredient_id": "methylparaben",
+    "concern": "some",
+    "name": "Methylparaben listing",
+    "why": "The matching rule records methylparaben as some concern."
+  },
+  {
+    "id": "rule_propylparaben",
+    "ingredient_id": "propylparaben",
+    "concern": "some",
+    "name": "Propylparaben listing",
+    "why": "The matching rule records propylparaben as some concern."
+  },
+  {
+    "id": "rule_limonene",
+    "ingredient_id": "limonene",
+    "concern": "some",
+    "name": "Citrus scent material",
+    "why": "The matching rule records this scent material as some concern."
+  },
+  {
+    "id": "rule_linalool",
+    "ingredient_id": "linalool",
+    "concern": "some",
+    "name": "Floral scent material",
+    "why": "The matching rule records this scent material as some concern."
+  },
+  {
+    "id": "rule_benzyl_alcohol",
+    "ingredient_id": "benzyl_alcohol",
+    "concern": "some",
+    "name": "Scent and shelf-life ingredient",
+    "why": "The matching rule records benzyl alcohol as some concern."
+  },
+  {
+    "id": "rule_titanium_dioxide",
+    "ingredient_id": "titanium_dioxide",
+    "concern": "some",
+    "name": "White mineral",
+    "why": "The matching rule records this white mineral as some concern."
+  },
+  {
+    "id": "rule_sodium_benzoate",
+    "ingredient_id": "sodium_benzoate",
+    "concern": "some",
+    "name": "Shelf-life salt",
+    "why": "The matching rule records this shelf-life ingredient as some concern."
+  },
+  {
+    "id": "rule_alcohol_denat",
+    "ingredient_id": "alcohol_denat",
+    "concern": "some",
+    "name": "Drying alcohol",
+    "why": "The matching rule records drying alcohol as some concern."
+  },
+  {
+    "id": "rule_tetrasodium_edta",
+    "ingredient_id": "tetrasodium_edta",
+    "concern": "some",
+    "name": "Mineral binder",
+    "why": "The matching rule records this mineral binder as some concern."
+  },
+  {
+    "id": "rule_sodium_lauryl_sulfate",
+    "ingredient_id": "sodium_lauryl_sulfate",
+    "concern": "higher",
+    "name": "Strong cleanser",
+    "why": "The matching rule records this strong cleanser as higher concern."
+  },
+  {
+    "id": "rule_triclosan",
+    "ingredient_id": "triclosan",
+    "concern": "higher",
+    "name": "Antibacterial ingredient",
+    "why": "The matching rule records this antibacterial ingredient as higher concern."
+  },
+  {
+    "id": "rule_formaldehyde",
+    "ingredient_id": "formaldehyde",
+    "concern": "higher",
+    "name": "Formaldehyde listing",
+    "why": "The matching rule records a formaldehyde listing as higher concern."
+  },
+  {
+    "id": "rule_dmdm_hydantoin",
+    "ingredient_id": "dmdm_hydantoin",
+    "concern": "higher",
+    "name": "Formaldehyde releaser",
+    "why": "The matching rule records this formaldehyde-releasing ingredient as higher concern."
+  },
+  {
+    "id": "rule_methylisothiazolinone",
+    "ingredient_id": "methylisothiazolinone",
+    "concern": "higher",
+    "name": "MIT listing",
+    "why": "The matching rule records methylisothiazolinone as higher concern."
+  },
+  {
+    "id": "rule_oxybenzone",
+    "ingredient_id": "oxybenzone",
+    "concern": "higher",
+    "name": "Sunscreen filter",
+    "why": "The matching rule records this sunscreen filter as higher concern."
+  },
+  {
+    "id": "rule_hydroquinone",
+    "ingredient_id": "hydroquinone",
+    "concern": "higher",
+    "name": "Skin-lightening ingredient",
+    "why": "The matching rule records this skin-lightening ingredient as higher concern."
+  },
+  {
+    "id": "rule_bha",
+    "ingredient_id": "bha",
+    "concern": "higher",
+    "name": "Oil stabiliser",
+    "why": "The matching rule records BHA as higher concern."
+  },
+  {
+    "id": "rule_coal_tar",
+    "ingredient_id": "coal_tar",
+    "concern": "higher",
+    "name": "Coal-derived ingredient",
+    "why": "The matching rule records coal tar as higher concern."
+  }
+]

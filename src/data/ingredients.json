@@ -1,0 +1,266 @@
+[
+  {
+    "id": "aqua",
+    "name": "Aqua",
+    "concern": "low",
+    "note": "Water, often the largest part of a liquid formula."
+  },
+  {
+    "id": "glycerin",
+    "name": "Glycerin",
+    "concern": "low",
+    "note": "A syrupy ingredient that helps a product feel moist."
+  },
+  {
+    "id": "aloe_vera",
+    "name": "Aloe Barbadensis Leaf Juice",
+    "concern": "low",
+    "note": "Juice from the aloe plant, used in skin and hair formulas."
+  },
+  {
+    "id": "panthenol",
+    "name": "Panthenol",
+    "concern": "low",
+    "note": "An ingredient used to soften the feel of a formula."
+  },
+  {
+    "id": "tocopherol",
+    "name": "Tocopherol",
+    "concern": "low",
+    "note": "A form of vitamin E used in creams and oils."
+  },
+  {
+    "id": "citric_acid",
+    "name": "Citric Acid",
+    "concern": "low",
+    "note": "An ingredient used to balance a formula."
+  },
+  {
+    "id": "sodium_chloride",
+    "name": "Sodium Chloride",
+    "concern": "low",
+    "note": "Salt, used to thicken some wash-off products."
+  },
+  {
+    "id": "cetyl_alcohol",
+    "name": "Cetyl Alcohol",
+    "concern": "low",
+    "note": "A waxy ingredient that makes creams feel smoother."
+  },
+  {
+    "id": "stearyl_alcohol",
+    "name": "Stearyl Alcohol",
+    "concern": "low",
+    "note": "A waxy ingredient that thickens creams."
+  },
+  {
+    "id": "shea_butter",
+    "name": "Butyrospermum Parkii Butter",
+    "concern": "low",
+    "note": "Shea butter, a fat from the shea nut used to soften skin."
+  },
+  {
+    "id": "coconut_oil",
+    "name": "Cocos Nucifera Oil",
+    "concern": "low",
+    "note": "Oil from the coconut, used to soften skin and hair."
+  },
+  {
+    "id": "jojoba_oil",
+    "name": "Simmondsia Chinensis Seed Oil",
+    "concern": "low",
+    "note": "Oil from the jojoba seed, used to soften skin."
+  },
+  {
+    "id": "xanthan_gum",
+    "name": "Xanthan Gum",
+    "concern": "low",
+    "note": "A powder that thickens gels and creams."
+  },
+  {
+    "id": "sodium_citrate",
+    "name": "Sodium Citrate",
+    "concern": "low",
+    "note": "A salt used to balance a formula."
+  },
+  {
+    "id": "squalane",
+    "name": "Squalane",
+    "concern": "low",
+    "note": "A light oil used to soften skin."
+  },
+  {
+    "id": "niacinamide",
+    "name": "Niacinamide",
+    "concern": "low",
+    "note": "A form of vitamin B3 used in skin formulas."
+  },
+  {
+    "id": "sodium_hyaluronate",
+    "name": "Sodium Hyaluronate",
+    "concern": "low",
+    "note": "A moisture-holding ingredient, also listed as hyaluronic acid."
+  },
+  {
+    "id": "cetearyl_alcohol",
+    "name": "Cetearyl Alcohol",
+    "concern": "low",
+    "note": "A waxy ingredient that thickens creams."
+  },
+  {
+    "id": "caprylic_capric_triglyceride",
+    "name": "Caprylic/Capric Triglyceride",
+    "concern": "low",
+    "note": "A light oil used to soften skin."
+  },
+  {
+    "id": "allantoin",
+    "name": "Allantoin",
+    "concern": "low",
+    "note": "An ingredient used in creams for its skin feel."
+  },
+  {
+    "id": "chamomile",
+    "name": "Chamomilla Recutita Flower Extract",
+    "concern": "low",
+    "note": "An extract from the chamomile flower."
+  },
+  {
+    "id": "colloidal_oatmeal",
+    "name": "Avena Sativa Kernel Flour",
+    "concern": "low",
+    "note": "Finely ground oat, used in skin formulas."
+  },
+  {
+    "id": "sodium_laureth_sulfate",
+    "name": "Sodium Laureth Sulfate",
+    "concern": "some",
+    "note": "A cleansing agent that helps wash-off products foam."
+  },
+  {
+    "id": "cocamidopropyl_betaine",
+    "name": "Cocamidopropyl Betaine",
+    "concern": "some",
+    "note": "A cleanser often used alongside other foaming agents."
+  },
+  {
+    "id": "fragrance",
+    "name": "Fragrance",
+    "concern": "some",
+    "note": "A scent blend. Labels often do not name every material inside it."
+  },
+  {
+    "id": "phenoxyethanol",
+    "name": "Phenoxyethanol",
+    "concern": "some",
+    "note": "An ingredient added so a product keeps for longer."
+  },
+  {
+    "id": "methylparaben",
+    "name": "Methylparaben",
+    "concern": "some",
+    "note": "An ingredient added so a product keeps for longer."
+  },
+  {
+    "id": "propylparaben",
+    "name": "Propylparaben",
+    "concern": "some",
+    "note": "An ingredient added so a product keeps for longer."
+  },
+  {
+    "id": "limonene",
+    "name": "Limonene",
+    "concern": "some",
+    "note": "A scent material from citrus, often listed beside fragrance."
+  },
+  {
+    "id": "linalool",
+    "name": "Linalool",
+    "concern": "some",
+    "note": "A floral scent material, often listed beside fragrance."
+  },
+  {
+    "id": "benzyl_alcohol",
+    "name": "Benzyl Alcohol",
+    "concern": "some",
+    "note": "Used as a scent material and to help a product keep."
+  },
+  {
+    "id": "titanium_dioxide",
+    "name": "Titanium Dioxide",
+    "concern": "some",
+    "note": "A white powder used for colour and in some sunscreens."
+  },
+  {
+    "id": "sodium_benzoate",
+    "name": "Sodium Benzoate",
+    "concern": "some",
+    "note": "An ingredient added so a product keeps for longer."
+  },
+  {
+    "id": "alcohol_denat",
+    "name": "Alcohol Denat.",
+    "concern": "some",
+    "note": "A drying alcohol, not the waxy alcohols used to thicken creams."
+  },
+  {
+    "id": "tetrasodium_edta",
+    "name": "Tetrasodium EDTA",
+    "concern": "some",
+    "note": "An ingredient that binds minerals so a formula stays stable."
+  },
+  {
+    "id": "sodium_lauryl_sulfate",
+    "name": "Sodium Lauryl Sulfate",
+    "concern": "higher",
+    "note": "A strong cleansing agent used to make foam in wash-off products."
+  },
+  {
+    "id": "triclosan",
+    "name": "Triclosan",
+    "concern": "higher",
+    "note": "An antibacterial ingredient used in some washes."
+  },
+  {
+    "id": "formaldehyde",
+    "name": "Formaldehyde",
+    "concern": "higher",
+    "note": "Listed on some labels as a preservative."
+  },
+  {
+    "id": "dmdm_hydantoin",
+    "name": "DMDM Hydantoin",
+    "concern": "higher",
+    "note": "An ingredient added so a product keeps. These rules group it with formaldehyde releasers."
+  },
+  {
+    "id": "methylisothiazolinone",
+    "name": "Methylisothiazolinone",
+    "concern": "higher",
+    "note": "An ingredient added so a product keeps for longer."
+  },
+  {
+    "id": "oxybenzone",
+    "name": "Oxybenzone",
+    "concern": "higher",
+    "note": "A sunscreen filter, also called benzophenone-3."
+  },
+  {
+    "id": "hydroquinone",
+    "name": "Hydroquinone",
+    "concern": "higher",
+    "note": "An ingredient used in some products that lighten the look of skin."
+  },
+  {
+    "id": "bha",
+    "name": "BHA",
+    "concern": "higher",
+    "note": "Butylated hydroxyanisole, added to keep oils from going off."
+  },
+  {
+    "id": "coal_tar",
+    "name": "Coal Tar",
+    "concern": "higher",
+    "note": "A dark ingredient from coal, used in some shampoos."
+  }
+]

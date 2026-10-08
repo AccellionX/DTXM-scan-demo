@@ -1,0 +1,447 @@
+[
+  {
+    "id": "alias_aqua_1",
+    "alias": "aqua",
+    "ingredient_id": "aqua"
+  },
+  {
+    "id": "alias_aqua_2",
+    "alias": "water",
+    "ingredient_id": "aqua"
+  },
+  {
+    "id": "alias_aqua_3",
+    "alias": "eau",
+    "ingredient_id": "aqua"
+  },
+  {
+    "id": "alias_glycerin_1",
+    "alias": "glycerin",
+    "ingredient_id": "glycerin"
+  },
+  {
+    "id": "alias_glycerin_2",
+    "alias": "glycerine",
+    "ingredient_id": "glycerin"
+  },
+  {
+    "id": "alias_glycerin_3",
+    "alias": "glycerol",
+    "ingredient_id": "glycerin"
+  },
+  {
+    "id": "alias_aloe_vera_1",
+    "alias": "aloe barbadensis leaf juice",
+    "ingredient_id": "aloe_vera"
+  },
+  {
+    "id": "alias_aloe_vera_2",
+    "alias": "aloe vera",
+    "ingredient_id": "aloe_vera"
+  },
+  {
+    "id": "alias_aloe_vera_3",
+    "alias": "aloe leaf juice",
+    "ingredient_id": "aloe_vera"
+  },
+  {
+    "id": "alias_aloe_vera_4",
+    "alias": "aloe vera leaf juice",
+    "ingredient_id": "aloe_vera"
+  },
+  {
+    "id": "alias_panthenol_1",
+    "alias": "panthenol",
+    "ingredient_id": "panthenol"
+  },
+  {
+    "id": "alias_panthenol_2",
+    "alias": "dexpanthenol",
+    "ingredient_id": "panthenol"
+  },
+  {
+    "id": "alias_panthenol_3",
+    "alias": "pro-vitamin b5",
+    "ingredient_id": "panthenol"
+  },
+  {
+    "id": "alias_panthenol_4",
+    "alias": "provitamin b5",
+    "ingredient_id": "panthenol"
+  },
+  {
+    "id": "alias_tocopherol_1",
+    "alias": "tocopherol",
+    "ingredient_id": "tocopherol"
+  },
+  {
+    "id": "alias_tocopherol_2",
+    "alias": "vitamin e",
+    "ingredient_id": "tocopherol"
+  },
+  {
+    "id": "alias_tocopherol_3",
+    "alias": "tocopheryl acetate",
+    "ingredient_id": "tocopherol"
+  },
+  {
+    "id": "alias_citric_acid_1",
+    "alias": "citric acid",
+    "ingredient_id": "citric_acid"
+  },
+  {
+    "id": "alias_sodium_chloride_1",
+    "alias": "sodium chloride",
+    "ingredient_id": "sodium_chloride"
+  },
+  {
+    "id": "alias_sodium_chloride_2",
+    "alias": "salt",
+    "ingredient_id": "sodium_chloride"
+  },
+  {
+    "id": "alias_cetyl_alcohol_1",
+    "alias": "cetyl alcohol",
+    "ingredient_id": "cetyl_alcohol"
+  },
+  {
+    "id": "alias_stearyl_alcohol_1",
+    "alias": "stearyl alcohol",
+    "ingredient_id": "stearyl_alcohol"
+  },
+  {
+    "id": "alias_shea_butter_1",
+    "alias": "butyrospermum parkii butter",
+    "ingredient_id": "shea_butter"
+  },
+  {
+    "id": "alias_shea_butter_2",
+    "alias": "shea butter",
+    "ingredient_id": "shea_butter"
+  },
+  {
+    "id": "alias_shea_butter_3",
+    "alias": "shea nut butter",
+    "ingredient_id": "shea_butter"
+  },
+  {
+    "id": "alias_coconut_oil_1",
+    "alias": "cocos nucifera oil",
+    "ingredient_id": "coconut_oil"
+  },
+  {
+    "id": "alias_coconut_oil_2",
+    "alias": "coconut oil",
+    "ingredient_id": "coconut_oil"
+  },
+  {
+    "id": "alias_jojoba_oil_1",
+    "alias": "simmondsia chinensis seed oil",
+    "ingredient_id": "jojoba_oil"
+  },
+  {
+    "id": "alias_jojoba_oil_2",
+    "alias": "jojoba oil",
+    "ingredient_id": "jojoba_oil"
+  },
+  {
+    "id": "alias_jojoba_oil_3",
+    "alias": "jojoba seed oil",
+    "ingredient_id": "jojoba_oil"
+  },
+  {
+    "id": "alias_xanthan_gum_1",
+    "alias": "xanthan gum",
+    "ingredient_id": "xanthan_gum"
+  },
+  {
+    "id": "alias_sodium_citrate_1",
+    "alias": "sodium citrate",
+    "ingredient_id": "sodium_citrate"
+  },
+  {
+    "id": "alias_squalane_1",
+    "alias": "squalane",
+    "ingredient_id": "squalane"
+  },
+  {
+    "id": "alias_niacinamide_1",
+    "alias": "niacinamide",
+    "ingredient_id": "niacinamide"
+  },
+  {
+    "id": "alias_niacinamide_2",
+    "alias": "nicotinamide",
+    "ingredient_id": "niacinamide"
+  },
+  {
+    "id": "alias_niacinamide_3",
+    "alias": "vitamin b3",
+    "ingredient_id": "niacinamide"
+  },
+  {
+    "id": "alias_sodium_hyaluronate_1",
+    "alias": "sodium hyaluronate",
+    "ingredient_id": "sodium_hyaluronate"
+  },
+  {
+    "id": "alias_sodium_hyaluronate_2",
+    "alias": "hyaluronic acid",
+    "ingredient_id": "sodium_hyaluronate"
+  },
+  {
+    "id": "alias_sodium_hyaluronate_3",
+    "alias": "hyaluronate",
+    "ingredient_id": "sodium_hyaluronate"
+  },
+  {
+    "id": "alias_cetearyl_alcohol_1",
+    "alias": "cetearyl alcohol",
+    "ingredient_id": "cetearyl_alcohol"
+  },
+  {
+    "id": "alias_caprylic_capric_triglyceride_1",
+    "alias": "caprylic/capric triglyceride",
+    "ingredient_id": "caprylic_capric_triglyceride"
+  },
+  {
+    "id": "alias_caprylic_capric_triglyceride_2",
+    "alias": "caprylic capric triglyceride",
+    "ingredient_id": "caprylic_capric_triglyceride"
+  },
+  {
+    "id": "alias_allantoin_1",
+    "alias": "allantoin",
+    "ingredient_id": "allantoin"
+  },
+  {
+    "id": "alias_chamomile_1",
+    "alias": "chamomilla recutita flower extract",
+    "ingredient_id": "chamomile"
+  },
+  {
+    "id": "alias_chamomile_2",
+    "alias": "chamomilla recutita extract",
+    "ingredient_id": "chamomile"
+  },
+  {
+    "id": "alias_chamomile_3",
+    "alias": "chamomile extract",
+    "ingredient_id": "chamomile"
+  },
+  {
+    "id": "alias_chamomile_4",
+    "alias": "chamomile",
+    "ingredient_id": "chamomile"
+  },
+  {
+    "id": "alias_colloidal_oatmeal_1",
+    "alias": "avena sativa kernel flour",
+    "ingredient_id": "colloidal_oatmeal"
+  },
+  {
+    "id": "alias_colloidal_oatmeal_2",
+    "alias": "colloidal oatmeal",
+    "ingredient_id": "colloidal_oatmeal"
+  },
+  {
+    "id": "alias_colloidal_oatmeal_3",
+    "alias": "oatmeal",
+    "ingredient_id": "colloidal_oatmeal"
+  },
+  {
+    "id": "alias_sodium_laureth_sulfate_1",
+    "alias": "sodium laureth sulfate",
+    "ingredient_id": "sodium_laureth_sulfate"
+  },
+  {
+    "id": "alias_sodium_laureth_sulfate_2",
+    "alias": "sles",
+    "ingredient_id": "sodium_laureth_sulfate"
+  },
+  {
+    "id": "alias_cocamidopropyl_betaine_1",
+    "alias": "cocamidopropyl betaine",
+    "ingredient_id": "cocamidopropyl_betaine"
+  },
+  {
+    "id": "alias_cocamidopropyl_betaine_2",
+    "alias": "capb",
+    "ingredient_id": "cocamidopropyl_betaine"
+  },
+  {
+    "id": "alias_fragrance_1",
+    "alias": "fragrance",
+    "ingredient_id": "fragrance"
+  },
+  {
+    "id": "alias_fragrance_2",
+    "alias": "parfum",
+    "ingredient_id": "fragrance"
+  },
+  {
+    "id": "alias_fragrance_3",
+    "alias": "perfume",
+    "ingredient_id": "fragrance"
+  },
+  {
+    "id": "alias_fragrance_4",
+    "alias": "aroma",
+    "ingredient_id": "fragrance"
+  },
+  {
+    "id": "alias_phenoxyethanol_1",
+    "alias": "phenoxyethanol",
+    "ingredient_id": "phenoxyethanol"
+  },
+  {
+    "id": "alias_methylparaben_1",
+    "alias": "methylparaben",
+    "ingredient_id": "methylparaben"
+  },
+  {
+    "id": "alias_propylparaben_1",
+    "alias": "propylparaben",
+    "ingredient_id": "propylparaben"
+  },
+  {
+    "id": "alias_limonene_1",
+    "alias": "limonene",
+    "ingredient_id": "limonene"
+  },
+  {
+    "id": "alias_linalool_1",
+    "alias": "linalool",
+    "ingredient_id": "linalool"
+  },
+  {
+    "id": "alias_benzyl_alcohol_1",
+    "alias": "benzyl alcohol",
+    "ingredient_id": "benzyl_alcohol"
+  },
+  {
+    "id": "alias_titanium_dioxide_1",
+    "alias": "titanium dioxide",
+    "ingredient_id": "titanium_dioxide"
+  },
+  {
+    "id": "alias_titanium_dioxide_2",
+    "alias": "ci 77891",
+    "ingredient_id": "titanium_dioxide"
+  },
+  {
+    "id": "alias_titanium_dioxide_3",
+    "alias": "ci77891",
+    "ingredient_id": "titanium_dioxide"
+  },
+  {
+    "id": "alias_sodium_benzoate_1",
+    "alias": "sodium benzoate",
+    "ingredient_id": "sodium_benzoate"
+  },
+  {
+    "id": "alias_alcohol_denat_1",
+    "alias": "alcohol denat",
+    "ingredient_id": "alcohol_denat"
+  },
+  {
+    "id": "alias_alcohol_denat_2",
+    "alias": "alcohol denat.",
+    "ingredient_id": "alcohol_denat"
+  },
+  {
+    "id": "alias_alcohol_denat_3",
+    "alias": "denatured alcohol",
+    "ingredient_id": "alcohol_denat"
+  },
+  {
+    "id": "alias_alcohol_denat_4",
+    "alias": "alcohol denatured",
+    "ingredient_id": "alcohol_denat"
+  },
+  {
+    "id": "alias_tetrasodium_edta_1",
+    "alias": "tetrasodium edta",
+    "ingredient_id": "tetrasodium_edta"
+  },
+  {
+    "id": "alias_tetrasodium_edta_2",
+    "alias": "edta",
+    "ingredient_id": "tetrasodium_edta"
+  },
+  {
+    "id": "alias_sodium_lauryl_sulfate_1",
+    "alias": "sodium lauryl sulfate",
+    "ingredient_id": "sodium_lauryl_sulfate"
+  },
+  {
+    "id": "alias_sodium_lauryl_sulfate_2",
+    "alias": "sls",
+    "ingredient_id": "sodium_lauryl_sulfate"
+  },
+  {
+    "id": "alias_sodium_lauryl_sulfate_3",
+    "alias": "sodium dodecyl sulfate",
+    "ingredient_id": "sodium_lauryl_sulfate"
+  },
+  {
+    "id": "alias_triclosan_1",
+    "alias": "triclosan",
+    "ingredient_id": "triclosan"
+  },
+  {
+    "id": "alias_formaldehyde_1",
+    "alias": "formaldehyde",
+    "ingredient_id": "formaldehyde"
+  },
+  {
+    "id": "alias_dmdm_hydantoin_1",
+    "alias": "dmdm hydantoin",
+    "ingredient_id": "dmdm_hydantoin"
+  },
+  {
+    "id": "alias_methylisothiazolinone_1",
+    "alias": "methylisothiazolinone",
+    "ingredient_id": "methylisothiazolinone"
+  },
+  {
+    "id": "alias_methylisothiazolinone_2",
+    "alias": "mit",
+    "ingredient_id": "methylisothiazolinone"
+  },
+  {
+    "id": "alias_oxybenzone_1",
+    "alias": "oxybenzone",
+    "ingredient_id": "oxybenzone"
+  },
+  {
+    "id": "alias_oxybenzone_2",
+    "alias": "benzophenone-3",
+    "ingredient_id": "oxybenzone"
+  },
+  {
+    "id": "alias_oxybenzone_3",
+    "alias": "benzophenone 3",
+    "ingredient_id": "oxybenzone"
+  },
+  {
+    "id": "alias_hydroquinone_1",
+    "alias": "hydroquinone",
+    "ingredient_id": "hydroquinone"
+  },
+  {
+    "id": "alias_bha_1",
+    "alias": "bha",
+    "ingredient_id": "bha"
+  },
+  {
+    "id": "alias_bha_2",
+    "alias": "butylated hydroxyanisole",
+    "ingredient_id": "bha"
+  },
+  {
+    "id": "alias_coal_tar_1",
+    "alias": "coal tar",
+    "ingredient_id": "coal_tar"
+  }
+]

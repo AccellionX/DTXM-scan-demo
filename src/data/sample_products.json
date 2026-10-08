@@ -1,0 +1,34 @@
+[
+  {
+    "id": "cloudwater-face-mist",
+    "product_name": "Cloudwater Face Mist",
+    "brands": "Detoxique Sample",
+    "category": "Face mist",
+    "image_front_url": null,
+    "ingredients_text": "Aqua (Water), Glycerin, Aloe Barbadensis Leaf Juice, Panthenol, Citric Acid, Tocopherol"
+  },
+  {
+    "id": "everyday-cream-cleanser",
+    "product_name": "Everyday Cream Cleanser",
+    "brands": "Detoxique Sample",
+    "category": "Cream cleanser",
+    "image_front_url": null,
+    "ingredients_text": "Aqua, SLES, Cocamidopropyl Betaine, Glycerin, Parfum, Citric Acid"
+  },
+  {
+    "id": "deep-clean-hand-wash",
+    "product_name": "Deep Clean Hand Wash",
+    "brands": "Detoxique Sample",
+    "category": "Hand wash",
+    "image_front_url": null,
+    "ingredients_text": "Aqua, SLS, Glycerin, Parfum, Citric Acid"
+  },
+  {
+    "id": "untitled-balm",
+    "product_name": "Untitled Balm",
+    "brands": "Detoxique Sample",
+    "category": "No ingredient list",
+    "image_front_url": null,
+    "ingredients_text": null
+  }
+]
